@@ -1,2 +1,0 @@
-# goodesign
-Initial commit
